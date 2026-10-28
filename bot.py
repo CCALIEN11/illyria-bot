@@ -1,4 +1,4 @@
-import requests, time, random, asyncio
+import requests, time, random, asyncio, os
 from telegram import Bot
 
 # --- YOUR INFO ---
